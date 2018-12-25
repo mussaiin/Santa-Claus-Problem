@@ -1,0 +1,11 @@
+
+*.iml
+*.o
+*.pyc
+*.pyo
+*~
+Makefile
+.idea/
+ipch/
+.vs/
+.vscode/
