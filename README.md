@@ -1,3 +1,7 @@
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg(https://github.com/mussaiin/Santa-Claus-Problem/LICENSE)
+
+
 # Santa-Claus-Problem
 
 Hi, this is my personal repository of Santa Claus Multithreading Problem Solutions on C and Python.
