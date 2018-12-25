@@ -4,7 +4,7 @@ Hi, this is my personal repository of Santa Claus Multithreading Problem Solutio
 
 I'm new to Concurrency Programming, and hope this repo will help you and me to understand the basics of multithreading.
 
-##Problem statement
+## Problem statement
 This problem is from William Stallings’s Operating Systems, but he attributes it to John Trono of St. Michael’s College in Vermont.
 
 Santa Claus sleeps in his shop at the North Pole and can only be
